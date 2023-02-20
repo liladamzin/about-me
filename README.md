@@ -7,14 +7,13 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="right" alt="Cat-pic" height="150" style="border-radius:50px;"
 src="https://media.discordapp.net/attachments/798677980200042551/1077038761097048144/sasuke.jpg?width=483&height=480">
 <div>
 
-##
+<hr>
 <div> 
   <a href = "https://twitter.com/liladamzin"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/liladamzin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -23,6 +22,5 @@ src="https://media.discordapp.net/attachments/798677980200042551/107703876109704
   
 
 </div>
-<hr>
 
-![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
+
