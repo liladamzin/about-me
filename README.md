@@ -3,7 +3,6 @@
 
 - 🖤 Estudando Python & Java
 - 🎓 Pré-Estudante do SENAI
-- 🦦 i love otters
 
 
 <div style="display: inline_block"><br>
