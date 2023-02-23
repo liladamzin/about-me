@@ -1,4 +1,4 @@
-## Oii, me chamo Daniel, Designer Gráfico, BeatMaker e Futuro Dev!
+## Oii, me chamo Daniel, sou Designer Gráfico, BeatMaker e Futuro Dev!
 
 
 - 🖤 Estudando Python & Java
