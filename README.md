@@ -9,7 +9,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="right" alt="Cat-pic" height="150" style="border-radius:50px;"
-src="https://media.discordapp.net/attachments/798677980200042551/1077038761097048144/sasuke.jpg?width=483&height=480">
+src="https://cdn.discordapp.com/attachments/798677980200042551/1078151342721335336/Redline_by_zamjj_on_DeviantArt.gif">
 <div>
 
 <hr>
